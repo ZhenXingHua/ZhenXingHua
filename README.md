@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZhenXingHua
+- 👋 Hi, I’m @Candy Jen
 - 👀 I’m interested in JavaScript, node.js, Electron, math
 - 🌱 I’m currently learning  node.js, Electron
 - 💞️ I’m looking to collaborate on programming JavaScript, node.js, Electron
