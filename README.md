@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZhenXingHua
-- 👀 I’m interested in C/C++, Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on programming C/C++, Java 
+- 👀 I’m interested in JavaScript,node.js,Electron
+- 🌱 I’m currently learning JavaScript,node.js,Electron
+- 💞️ I’m looking to collaborate on programming JavaScript,node.js,Electron
 - 📫 How to reach me? zhenxh@163.com; zhen0931@qq.com
 
 <!---
