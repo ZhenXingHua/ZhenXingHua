@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ZhenXingHua
-- 👀 I’m interested in JavaScript, node.js, Electron, mathematics
-- 🌱 I’m currently learning  node.js, Electron
-- 💞️ I’m looking to collaborate on programming JavaScript, node.js, Electron
+- 👋 Hi, I’m @ZhenXinghua
+- 👀 I’m interested in JavaScript, node.js, react, next.js, mui, mathematics
+- 🌱 I’m currently learning  react, next.js, mui
+- 💞️ I’m looking to collaborate on programming JavaScript, node.js, react, etc
 - 📫 How to reach me? zhenxh@163.com; zhen0931@qq.com
 
 <!---
